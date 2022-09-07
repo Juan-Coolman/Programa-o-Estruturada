@@ -1,3 +1,5 @@
+/*Turma: 931 //  Nome do aluno: Juan Angelo de Oliveira Santos // Matrícula:2022101107*/
+
 /* Desenvolver um programa em C que faça:
 1. Criar 5 vetores contendo 10 valores reais gerados aleatoriamente;
 2. Utilizar uma função recursiva para somar apenas os elementos pares de cada vetor;
